@@ -30,7 +30,7 @@ Search "Live Server" in the search box and install it.
 ù
 Staying on this GitHub page, click on the green "Code" button, continuing by choosing "Download Zip." 
 Go to the folder where you downloaded the Zip and unzip the file. 
-After that, open "Visual Studio Code", click on the "Select a Folder" item and choose the "Robin-Hood" folder you just unzipped.
+After that, open "Visual Studio Code", click on the "Select a Folder" item and choose the "Robin-Hood-master" folder you just unzipped.
 
 
 ### 4. Click on "Go Live."
